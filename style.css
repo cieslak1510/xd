@@ -40,7 +40,7 @@
 
 #g1{
     margin-left: 200px;
-    width: 49vh;
+    width: 49vw;
     display: flex;
     justify-content: center;
     float: left;
@@ -74,7 +74,7 @@
 
 #g2{
     margin-right: 200px;
-    width: 49vh;
+    width: 49vw;
     display: flex;
     justify-content: center;
     float: right;
