@@ -40,7 +40,7 @@
 
 #g1{
     padding-left: 200px;
-    width: 49vw;
+    width: 49%;
     display: flex;
     justify-content: center;
     float: left;
@@ -57,7 +57,9 @@
     transition: all 0.3s ease;
     
 }
-
+#galerie{
+    width: 100vw;
+}
 #galerie span{
     display: flex;
     justify-content: center;
@@ -73,7 +75,7 @@
 
 #g2{
     padding-right: 200px;
-    width: 49vw;
+    width: 49%;
     display: flex;
     justify-content: center;
     float: right;
