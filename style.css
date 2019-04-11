@@ -39,7 +39,7 @@
 }
 
 #g1{
-    margin-left: 200px;
+    padding-left: 200px;
     width: 49vw;
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@
 }
 
 #g2{
-    margin-right: 200px;
+    padding-right: 200px;
     width: 49vw;
     display: flex;
     justify-content: center;
