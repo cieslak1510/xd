@@ -89,8 +89,7 @@
 
 #g2 img:hover{
     cursor: pointer;
-    padding: 10px;
-    border: 2px solid green;
     transition: all 0.3s ease;
+    tranform: scale(1.1);
     
 }
