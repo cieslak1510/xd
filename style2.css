@@ -39,9 +39,9 @@ table th{
 }
 
 table th img:hover{
-    padding: 10px;
-    transition: all 0.3s ease;
-    border: 2px solid gray;
+   cursor: pointer;
+   transition: all 0.3s ease;
+   transform: scale(1.1);
     
 }
     
